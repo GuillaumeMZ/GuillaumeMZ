@@ -1,11 +1,51 @@
-👋 Hello! I'm Guillaume, a passionate 4th-year computer science student from France 🇫🇷. With a **strong foundation in software engineering**, I've cultivated a deep interest in a wide array of fields within the world of computer science.
+## About me
 
-🚀 **My primary focus is on software engineering**, where I've honed my skills over the past 9 years. I'm well-versed in the art of **modern C++**, and I've delved into the intricacies of C, Rust, Java, Python, and Javascript/Typescript. I also have experience with functional programming using OCaml, and I'm adept at front-end development, mainly with the Vue.js framework.
+👋 Hello! I'm Guillaume, a passionate fourth-year computer science student from France 🇫🇷. I've been programming for almost ten years now (mainly with the C++ programming language), and I don't intend to stop !
 
-🌐 **I love exploring new horizons in programming**, whether it's tackling low-level programming, diving into compiler implementation, exploring the fascinating world of artificial intelligence, or crafting solutions for distributed systems. I thrive on the challenge of learning and mastering new domains.
+I'm currently interested in:
+* Software engineering
+* Low-level programming
+* Compiler design
+* Distributed systems / distributed programming
+* Generative artificial intelligence.
 
-🔧 Currently, I'm actively working on some exciting projects:
-- **Wxllpulse**: A video wallpaper setter for the X11 window manager, written in C++17. It's my passion project where I'm pushing the boundaries of what's possible with X11 and creating stunning visual experiences.
-- **LoraDatasetManager**: A powerful tool for managing image datasets, crafted with Rust (using Tauri) and Typescript (using Vue.js). This project combines my love for Rust's performance and Vue.js's user-friendly interface, making dataset management a breeze.
+## Skills
 
-👋 Feel free to explore my repositories and reach out if you have any questions or exciting projects in mind !
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ocaml,rust,scala,js,ts" />
+  </a>
+</p>
+
+<p align="center"><b>Frameworks</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,qt,tauri,react,vue" />
+  </a>
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cmake,gradle,docker" />
+  </a>
+</p>
+
+<p align="center"><b>Versioning</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
+<p align="center"><b>Editors and IDEs</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+  </a>
+</p>
+
+## Current projects
+* [Wxllpulse](https://github.com/GuillaumeMZ/wxllpulse): Use your favorite **videos** and images as wallpapers ! Works for the X11 window system, as long as there is no desktop environment (e.g Gnome) installed.
+* [LoraDatasetManager](https://github.com/GuillaumeMZ/LoraDatasetManager): Manage the images in a dataset, edit all the captions at once, use auto-tagging models and start training ! Intended to be used for LoRA, LoCon and LoHA models trained under Stable Diffusion.
