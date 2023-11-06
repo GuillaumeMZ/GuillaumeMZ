@@ -1,3 +1,7 @@
+> What I cannot create, I do not understand.  
+
+Richard Feynman.
+
 ## About me
 
 👋 Hello! I'm Guillaume, a passionate fourth-year computer science student from France 🇫🇷. I've been programming for almost ten years now (mainly with the C++ programming language), and I don't intend to stop !
