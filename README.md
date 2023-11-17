@@ -51,5 +51,5 @@ I'm currently interested in:
 </p>
 
 ## Current projects
-* [Wxllpulse](https://github.com/GuillaumeMZ/wxllpulse): Use your favorite **videos** and images as wallpapers ! Works for the X11 window system, as long as there is no desktop environment (e.g Gnome) installed.
+* [Wxllpulse](https://github.com/GuillaumeMZ/wxllpulse): Use your favorite **videos** and images as wallpapers ! Works for the X11 windowing system, as long as there is no desktop environment (e.g Gnome) installed.
 * [LoraDatasetManager](https://github.com/GuillaumeMZ/LoraDatasetManager): Manage the images in a dataset, edit all the captions at once, use auto-tagging models and start training ! Intended to be used for LoRA, LoCon and LoHA models trained under Stable Diffusion.
