@@ -25,7 +25,7 @@ I'm currently interested in:
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,qt,tauri,react,vue" />
+    <img src="https://skillicons.dev/icons?i=qt,tauri,react,vue" />
   </a>
 </p>
 
@@ -49,7 +49,3 @@ I'm currently interested in:
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
   </a>
 </p>
-
-## Current projects
-* [Wxllpulse](https://github.com/GuillaumeMZ/wxllpulse): Use your favorite **videos** and images as wallpapers ! Works for the X11 windowing system, as long as there is no desktop environment (e.g Gnome) installed.
-* [LoraDatasetManager](https://github.com/GuillaumeMZ/LoraDatasetManager): Manage the images in a dataset, edit all the captions at once, use auto-tagging models and start training ! Intended to be used for LoRA, LoCon and LoHA models trained under Stable Diffusion.
