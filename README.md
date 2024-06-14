@@ -18,7 +18,7 @@ I'm currently interested in:
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ocaml,rust,scala,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ocaml,rust,scala,js,ts,haskell" />
   </a>
 </p>
 
@@ -46,6 +46,6 @@ I'm currently interested in:
 <p align="center"><b>Editors and IDEs</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,qt" />
   </a>
 </p>
