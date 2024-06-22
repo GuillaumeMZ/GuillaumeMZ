@@ -10,7 +10,6 @@ I'm currently interested in:
 * Software engineering
 * Low-level programming
 * Compiler design
-* Distributed systems / distributed programming
 * Generative artificial intelligence.
 
 ## Skills
