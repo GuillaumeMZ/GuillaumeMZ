@@ -17,7 +17,7 @@ I'm currently interested in:
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ocaml,rust,scala,js,ts,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,py,ocaml,scala,js,ts,haskell" />
   </a>
 </p>
 
