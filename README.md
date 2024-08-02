@@ -9,8 +9,10 @@ Richard Feynman.
 I'm currently interested in:
 * Software engineering
 * Low-level programming
+* Game programming
 * Compiler design
-* Generative artificial intelligence.
+* Computer vision
+* Generative artificial intelligence
 
 ## Skills
 
