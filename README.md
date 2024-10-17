@@ -4,15 +4,14 @@ Richard Feynman.
 
 ## About me
 
-👋 Hello! I'm Guillaume, a passionate fourth-year computer science student from France 🇫🇷. I've been programming for almost ten years now (mainly with the C++ programming language), and I don't intend to stop !
-
-I'm currently interested in:
+👋 Hello! I'm Guillaume, a passionate fifth-year computer science student from France 🇫🇷. I've been programming for almost ten years now, and I'm currently interested in:
 * Software engineering
 * Low-level programming
 * Game programming
 * Compiler design
 * Computer vision
-* Generative artificial intelligence
+* Generative artificial intelligence (especially images)
+* UI/UX design
 
 ## Skills
 
