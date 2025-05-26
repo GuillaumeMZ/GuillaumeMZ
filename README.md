@@ -4,7 +4,7 @@ Richard Feynman.
 
 ## About me
 
-👋 Hello! I'm Guillaume, a passionate fifth-year computer science student from France 🇫🇷. I've been programming for almost ten years now, and I'm currently interested in:
+👋 Hello! I'm Guillaume, a passionate fifth-year computer science student from France 🇫🇷. I've been programming for more than ten years now, and I'm currently interested in:
 * Software engineering
 * Low-level programming
 * Game programming
@@ -18,7 +18,7 @@ Richard Feynman.
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,py,ocaml,scala,js,ts,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,py,ocaml,js,ts,haskell" />
   </a>
 </p>
 
