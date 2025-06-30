@@ -18,7 +18,7 @@ Richard Feynman.
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,py,ocaml,js,ts,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,py,ocaml,js,ts,haskell,zig" />
   </a>
 </p>
 
